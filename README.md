@@ -35,3 +35,7 @@ _Data Visualization: Built dynamic charts and KPI cards to present trends clearl
 _DAX & Power Query: Used advanced calculations for profit margins and trend analysis._
 
 _Business Insights: Derived key findings to optimize sales strategy and retailer performance._
+
+_**RESOURCE:**_
+
+Kaggle data set https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset/data
